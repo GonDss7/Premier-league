@@ -38,3 +38,4 @@ All relationships are enforced with **foreign keys**, and player uniqueness is g
 -- Select Format: Plain, then load `premier_league.sql`
 
 ![image](https://github.com/user-attachments/assets/b6cbf74c-15ee-42e8-a66a-7020a6a8bc0d)
+![SS improved](https://github.com/user-attachments/assets/da2e85c4-693e-48f4-bdc4-11907edf9021)
